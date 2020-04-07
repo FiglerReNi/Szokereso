@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\bin\Debug\Szokereso.exe.config
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\bin\Debug\Szokereso.exe
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\bin\Debug\Szokereso.pdb
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\obj\Debug\Szokereso.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\obj\Debug\Szokereso.exe
+D:\Programozás\Visual Studio\Feladatok\Szokereso\Szokereso\Szokereso\obj\Debug\Szokereso.pdb
